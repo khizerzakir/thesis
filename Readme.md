@@ -21,4 +21,6 @@ A huge thank you to my advisors, mentors, and peers who supported me throughout 
 
 As I close this chapter, I look forward to exploring new opportunities where I can apply and expand on these findings. Excited for what’s next!
 
+Share your views and we can discuss!
+
 #MasterThesis #RemoteSensing #RiemannianManifold #DeepLearning #DataScience #DigitalEarth #CovarianceMatrices #AI #MachineLearning
